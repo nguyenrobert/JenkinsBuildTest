@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsTestBuild", "Jenkins
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsTestBuild.Services", "JenkinsTestBuild.Services\JenkinsTestBuild.Services.csproj", "{EB2F1AC1-D3EA-48AC-9885-BF4BFBEB44D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsTestBuild.WordAddIn", "JenkinsTestBuild.WordAddIn\JenkinsTestBuild.WordAddIn.csproj", "{3C7A9456-485B-41CD-AC59-71069F26673B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EB2F1AC1-D3EA-48AC-9885-BF4BFBEB44D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB2F1AC1-D3EA-48AC-9885-BF4BFBEB44D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB2F1AC1-D3EA-48AC-9885-BF4BFBEB44D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C7A9456-485B-41CD-AC59-71069F26673B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C7A9456-485B-41CD-AC59-71069F26673B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C7A9456-485B-41CD-AC59-71069F26673B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C7A9456-485B-41CD-AC59-71069F26673B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
