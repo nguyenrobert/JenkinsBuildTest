@@ -11,6 +11,7 @@ namespace JenkinsTestBuild
         static void Main(string[] args)
         {
             Console.WriteLine("test Jenkins ");
+            Console.WriteLine("test Jenkins update ");
             Console.ReadKey();
         }
     }
